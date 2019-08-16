@@ -1,6 +1,5 @@
   ### <a target="_blank" href="http://www.superbear.cn">线上预览地址</a>
   
-  #### <a target="_blank" href="https://github.com/loveRandy/vue-cli3.0-vueadmin">vue版本</a>
 
 #### 脚手架版本:
  *create-react-app@2
@@ -34,3 +33,5 @@
 3. 生产打包
   npm run dll (仅需运行一次)
   npm run build
+  
+### <a target="_blank" href="https://github.com/loveRandy/vue-cli3.0-vueadmin">vue版本请移步</a>
