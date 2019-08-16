@@ -1,4 +1,4 @@
-  ### <a href="www.superbear.cn">线上预览地址</a>
+  ### <a target="_blank" href="http://www.superbear.cn">线上预览地址</a>
 
 #### 脚手架版本:
  *create-react-app@2
