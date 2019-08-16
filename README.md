@@ -1,4 +1,6 @@
   ### <a target="_blank" href="http://www.superbear.cn">线上预览地址</a>
+  
+  #### <a target="_blank" href="https://github.com/loveRandy/vue-cli3.0-vueadmin">vue版本</a>
 
 #### 脚手架版本:
  *create-react-app@2
