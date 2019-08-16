@@ -5,13 +5,12 @@
  #### 用到react相关的生态链模块:
   * `react`
   * `react-dom`
-  * `react-router-dom`: react-router4以后 好像都是用这个东西
-  * `react-router-dom`: react-router4以后 好像都是用这个东西
-  * `redux`: 用来管理全局状态
-  * `react-redux`: 用来管理全局状态
-  * `redux-actions`: 用来创建action的，而且生成相关reducers的时候也不要写 switch/case 或 if/else 了，主要是方便。
-  * `redux-thunk`: `redux`的中间件， 用来处理我们异步action
-  * `antd`: 随便找的一个比较常用的react-UI库
+  * `react-router-dom`
+  * `redux`: 
+  * `react-redux`
+  * `redux-actions`
+  * `redux-thunk`
+  * `antd`
  
  #### 项目要点
   *less配置、antd按需加载
