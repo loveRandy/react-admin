@@ -1,6 +1,7 @@
   ### <a target="_blank" href="http://www.superbear.cn">线上预览地址</a>
   
-
+#### 项目简介
+根据不同的的角色展示不同的列表,项目里涵盖了后台管理系统里90%的需求,没有多余的东西,如果有自己的需求单独加上即可,如富文本,拖拽网上都有现成的
 #### 脚手架版本:
  *create-react-app@2
  这个版本用webpack.config.js替换了webpack.config.prod.js和webpack.config.dev.js
