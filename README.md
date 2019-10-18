@@ -1,4 +1,5 @@
   ### <a target="_blank" href="http://www.superbear.cn">线上预览地址</a>
+  ### <a target="_blank" href="https://github.com/loveRandy/vue-cli3.0-vueadmin">vue版本请移步</a>
   
 #### 项目简介
 根据不同的的角色展示不同的列表,项目里涵盖了后台管理系统里90%的需求,没有多余的东西,如果有自己的需求单独加上即可,如富文本,拖拽网上都有现成的
@@ -35,4 +36,5 @@
   npm run dll (仅需运行一次)
   npm run build
   
-### <a target="_blank" href="https://github.com/loveRandy/vue-cli3.0-vueadmin">vue版本请移步</a>
+
+### <a target="_blank" href="http://www.randy168.com">个人博客系统:www.randy168.com</a>
