@@ -1,4 +1,4 @@
-  ### <a target="_blank" href="http://www.superbear.cn">线上预览地址</a>
+  ### <a target="_blank" href="http://47.105.71.81:3304">线上预览地址</a>
   ### <a target="_blank" href="https://github.com/loveRandy/vue-cli3.0-vueadmin">vue版本请移步</a>
   
 #### 项目简介
